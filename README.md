@@ -1,2 +1,2 @@
-# fastapi-assignment-1
-AltSchool FastAPI assignment
+# fastApiAssignment
+AltSchool FastAPI assignment by X-t31
